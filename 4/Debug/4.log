@@ -1,0 +1,6 @@
+﻿  Pair.cpp
+  Rectangle.cpp
+  Source.cpp
+D:\UNIVER\Лабы\OOP\4\Source.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  4.vcxproj -> D:\UNIVER\Лабы\OOP\Debug\4.exe

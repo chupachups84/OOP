@@ -1,0 +1,18 @@
+﻿  Account.cpp
+D:\UNIVER\Лабы\OOP\3\Account.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Money.cpp
+D:\UNIVER\Лабы\OOP\3\Money.cpp(12,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\UNIVER\Лабы\OOP\3\Money.cpp(14,13): warning C4244: =: преобразование "long" в "unsigned char", возможна потеря данных
+D:\UNIVER\Лабы\OOP\3\Money.cpp(71,20): warning C4244: =: преобразование "long" в "unsigned char", возможна потеря данных
+D:\UNIVER\Лабы\OOP\3\Money.cpp(66,21): warning C4101: k: неиспользованная локальная переменная
+D:\UNIVER\Лабы\OOP\3\Money.cpp(80,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\UNIVER\Лабы\OOP\3\Money.cpp(82,20): warning C4244: =: преобразование "long" в "unsigned char", возможна потеря данных
+D:\UNIVER\Лабы\OOP\3\Money.cpp(77,21): warning C4101: k: неиспользованная локальная переменная
+D:\UNIVER\Лабы\OOP\3\Money.cpp(91,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\UNIVER\Лабы\OOP\3\Money.cpp(93,21): warning C4244: =: преобразование "long" в "unsigned char", возможна потеря данных
+D:\UNIVER\Лабы\OOP\3\Money.cpp(88,23): warning C4101: k: неиспользованная локальная переменная
+  Source.cpp
+D:\UNIVER\Лабы\OOP\3\Account.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\UNIVER\Лабы\OOP\3\Source.cpp(2,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  3.vcxproj -> D:\UNIVER\Лабы\OOP\Debug\3.exe

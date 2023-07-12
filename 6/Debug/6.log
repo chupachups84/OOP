@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UNIVER\Лабы\OOP\6\List.h(462): warning C4715: List<double>::Iterator::operator*: значение возвращается не при всех путях выполнения
+  6.vcxproj -> D:\UNIVER\Лабы\OOP\Debug\6.exe
